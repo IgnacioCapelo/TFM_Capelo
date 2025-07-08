@@ -1,0 +1,55 @@
+Study ID: Identificador único asignado a cada estudio clínico o proyecto de investigación.
+Patient ID: Código único para identificar a cada paciente dentro del estudio.
+Sample ID: Identificador exclusivo asignado a cada muestra biológica recolectada.
+Adjuvant Treatment: Tratamiento adicional administrado después de la cirugía principal para reducir riesgo de recaída.
+Age at Diagnosis: Edad del paciente en el momento en que se confirmó el diagnóstico de enfermedad.
+KRAS Allele Selection: Selección del alelo KRAS de interés para análisis genético o molecular.
+Evaluable for Allelic Imbalance: Indica si la muestra es adecuada para evaluar desequilibrio alélico.
+Ancestry: Origen ancestral estimado a partir de datos genéticos del paciente.
+Ashkenazi Jewish Ancestry: Confirma si el paciente tiene ascendencia judía asquenazí.
+Autoimmune Disease History: Registro de antecedentes personales de enfermedades autoinmunes.
+Coronary Artery Disease History: Historial médico relacionado con enfermedad de las arterias coronarias.
+Cancer History: Indica si el paciente tiene antecedentes personales de cáncer.
+Cancer Type: Clasificación general del tipo de cáncer diagnosticado.
+Cancer Type Detailed: Descripción específica del subtipo de cáncer diagnosticado.
+Copy Number State: Estado de variación en el número de copias genéticas en la muestra.
+Diabetes History: Historial personal de diagnóstico de diabetes.
+Disease Status at Sequencing: Estado de la enfermedad del paciente al momento de la secuenciación genómica.
+Diagnosis to Collection (Year): Tiempo transcurrido, en años, entre el diagnóstico y la recolección de la muestra.
+Fraction Genome Altered: Porcentaje del genoma con alteraciones detectadas en la muestra.
+Gene Panel: Conjunto de genes analizados en el estudio molecular.
+Genomic Subtype: Clasificación molecular basada en características genómicas específicas del tumor.
+Hypertension History: Antecedentes personales de hipertensión arterial.
+Institute Source: Institución que proporcionó los datos o las muestras del estudio.
+KRAS Mutation Dosage: Cantidad relativa de la mutación KRAS detectada en la muestra.
+KRAS Mutant Copies Gained: Número de copias adicionales de la variante mutada de KRAS.
+Sub-threshold KRAS Mutation: Mutación de KRAS detectada por debajo del umbral de relevancia clínica.
+KRAS Somatic Variant: Variación somática del gen KRAS identificada en el tumor.
+MSI Type: Clasificación del estado de inestabilidad de microsatélites (MSI).
+Mutation Count: Cantidad total de mutaciones detectadas en la muestra.
+Neoadjuvant Treatment: Tratamiento administrado antes de la cirugía para reducir el tumor.
+Oncotree Code: Código estandarizado que representa el tipo específico de cáncer.
+Overall Survival (Months): Tiempo de supervivencia total medido en meses desde el diagnóstico.
+Overall Survival: Indicador general de supervivencia del paciente, categorizado.
+Pancreatitis History: Antecedentes personales de inflamación del páncreas (pancreatitis).
+Resection Surgery: Registro de si el paciente fue sometido a cirugía de resección tumoral.
+Number of Samples Per Patient: Cantidad de muestras recolectadas por cada paciente en el estudio.
+Sample coverage: Nivel de profundidad de secuenciación logrado en la muestra.
+Sample Type: Describe si la muestra utilizada proviene del tumor primario o de una metástasis.
+KRAS Allele Selection State: Estado del proceso de selección del alelo KRAS.
+Sex: Sexo biológico del paciente.
+Somatic Status: Clasificación del tipo de alteraciones genéticas: somáticas o germinales.
+Stage at Diagnosis: Etapa clínica del cáncer determinada en el momento del diagnóstico.
+Systemic Treatment: Tratamiento farmacológico que actúa sobre todo el organismo.
+Systemic Treatment 1: Primer tratamiento sistémico administrado.
+Systemic Treatment 2: Segundo tratamiento sistémico administrado.
+Systemic Treatment 3: Tercer tratamiento sistémico administrado.
+Systemic Treatment 4: Cuarto tratamiento sistémico administrado.
+Systemic Treatment 5: Quinto tratamiento sistémico administrado.
+Targeted Therapy: Terapia dirigida a alteraciones genéticas específicas del tumor.
+TMB-H: Estado de alta carga mutacional tumoral (Tumor Mutation Burden-High).
+TMB (nonsynonymous): Número de mutaciones no sinónimas encontradas por megabase en el tumor.
+Smoking History: Historial de consumo de tabaco del paciente.
+Tumor Location: Ubicación anatómica del tumor principal.
+Tumor Purity: Porcentaje de células tumorales en la muestra analizada.
+Whole Genome Doubling Status: Estado del tumor respecto a duplicación completa del genoma.
